@@ -1,7 +1,15 @@
 
+
 def show_menu():
-    print("--- De Anza Food Cou:
-          pass 
+    print("--- De Anza Food Court---")
+    print("Please Choose one from the menu:")
+    print("1. De Anza Burger  - $5.25")
+    print("2. Bacon Cheese.   - $5.75")
+    print("3. Mushroom Swiss  - $5.95")
+    print("4. Western Burger  - $5.95")
+    print("5. Don Cali Burger - $5.95")
+    print("6. Exit")
+    
 def main():
 
     menue = {
